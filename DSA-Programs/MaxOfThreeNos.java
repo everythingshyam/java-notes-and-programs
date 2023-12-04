@@ -1,3 +1,8 @@
+
+/*
+ * This program take in three integers and prints the maximum of those three.
+ */
+
 import java.util.Scanner;
 
 public class MaxOfThreeNos {
