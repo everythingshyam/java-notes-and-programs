@@ -1,3 +1,4 @@
+package Temp;
 import java.util.Scanner;
 
 class Sample {
