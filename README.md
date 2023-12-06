@@ -2,6 +2,8 @@
 
 This repo has all my notes of Java Programming, OOPS and DSA as well as all the programs I've written while learning Java.
 
+**Access all programs on [Replit](https://replit.com/@everythingshyam/Java-Programs)**
+
 ## Table of Contents
 
 -   [**Notes**](https://github.com/everythingshyam/java-notes-and-programs/tree/master/Notes)
@@ -13,3 +15,4 @@ This repo has all my notes of Java Programming, OOPS and DSA as well as all the 
     -   [Count digits](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/DigitCount.java)
     -   [Reverse an integer](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/NumberReverse.java)
     -   [**Mathematical Expression Evaluator**](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ExpressionCalculator.java)
+    -   [Armstrong Numbers](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ArmstrongNo.java)
