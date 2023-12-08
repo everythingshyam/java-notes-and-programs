@@ -1,3 +1,13 @@
 # TODO LIST
 
--add every program on codesandbox
+---
+
+-   **REP\_** add every program on replit
+
+---
+
+-   Add Git & GitHub Notes
+
+-   Add Java Notes Once Completed
+
+---
