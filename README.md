@@ -16,3 +16,4 @@ This repo has all my notes of Java Programming, OOPS and DSA as well as all the 
     -   [Reverse an integer](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/NumberReverse.java)
     -   [**Mathematical Expression Evaluator**](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ExpressionCalculator.java)
     -   [Armstrong Numbers](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ArmstrongNo.java)
+    -   [Reverse an Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ArrayReverse.java)
