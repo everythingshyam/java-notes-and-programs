@@ -10,11 +10,10 @@ public class SearchInfiniteArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        ArrayList<Integer> arrList = new ArrayList<Integer>();
-
         int temp;
 
         // USER INPUT
+        // ArrayList<Integer> arrList = new ArrayList<Integer>();
         // System.out.print("\nEnter elements of the array(-1 to end): ");
         // temp = 0;
         // do {
