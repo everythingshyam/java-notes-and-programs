@@ -23,3 +23,5 @@ This repo has all my notes of Java Programming, OOPS and DSA as well as all the 
     -   [Search in Sorted Rotated Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/SearchRotatedArray.java)
     -   [Search in an Infinite Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/SearchInfiniteArray.java)
     -   [Minimize Max Sum in Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/MinimizeArraySplitMaximum.java)
+    -   [Search in 2D Sorted Array - 1](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/Array2DSearch.java)
+    -   [Search in 2D Sorted Array - 2](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/Array2DSearch2.java)
