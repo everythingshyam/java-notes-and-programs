@@ -12,7 +12,7 @@ This repo has all my notes of Java Programming, OOPS and DSA as well as all the 
     -   [Print Fibonacci series](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/Fibonacci.java)
     -   [Count digits](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/DigitCount.java)
     -   [Reverse an integer](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/NumberReverse.java)
-    -   [**Mathematical Expression Evaluator**](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ExpressionCalculator.java)
+    -   [**Mathematical Expression Evaluator (In Making)**](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ExpressionCalculator.java)
     -   [Armstrong Numbers](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ArmstrongNo.java)
     -   [Reverse an Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/ArrayReverse.java)
     -   [Ceiling of a Number in a Integer Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/CeilingInArray.java)
@@ -25,3 +25,4 @@ This repo has all my notes of Java Programming, OOPS and DSA as well as all the 
     -   [Minimize Max Sum in Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/MinimizeArraySplitMaximum.java)
     -   [Search in 2D Sorted Array - 1](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/Array2DSearch.java)
     -   [Search in 2D Sorted Array - 2](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/Array2DSearch2.java)
+    -   [Optimized Bubble Sort](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/OptimizedBubbleSort.java)

@@ -2,9 +2,7 @@
 
 ---
 
--   **REP\_** add every program on replit
-
----
+-   Expression Calculator Program
 
 -   Add Java Notes Once Completed
 
