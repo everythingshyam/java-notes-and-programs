@@ -26,13 +26,9 @@ class SelectionSort {
 
         int stepCount = 0;
         for (int i = 0; i < len; i++) {
-            // System.out.print("\ni = " + i);
-            // System.out.print("\nCurrent Array: \n");
-            // printArray(arr);
             for (int j = i + 1; j < len; j++) {
                 stepCount++;
                 if (arr[i] > arr[j]) {
-                    // System.out.print("\nSwapping " + arr[i] + " and " + arr[j]);
                     arr[i] = arr[i] + arr[j];
                     arr[j] = arr[i] - arr[j];
                     arr[i] = arr[i] - arr[j];

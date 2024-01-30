@@ -30,3 +30,4 @@ This repo has all my notes of Java Programming, OOPS and DSA as well as all the 
     -   [Cyclic Sorting](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/CyclicSort.java)
     -   [Find Missing Number in Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/MissingNumberInArray.java)
     -   [Find Missing Numbers in Array](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/MissingNumbersInArray.java)
+    -   [String Builder Example](https://github.com/everythingshyam/java-notes-and-programs/blob/master/DSA-Programs/StringBuilderExample.java)
