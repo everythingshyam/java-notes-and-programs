@@ -17,10 +17,11 @@ public class PatternPrinting {
             System.out.println("5. Filled Diamond");
             System.out.println("6. Hollow Diamond");
             System.out.println("7. Ben 10 Logo");
+            System.out.println("8. Perimeter Box");
             System.out.println("0. Exit");
             System.out.println("Enter your choice: ");
             choice = sc.nextInt();
-            if (choice <= 0 || choice > 7)
+            if (choice <= 0 || choice > 8)
                 break;
             System.out.println("Enter the number of rows: ");
             int n = sc.nextInt();
@@ -149,6 +150,15 @@ public class PatternPrinting {
                     System.out.println();
                 }
                 break;
+            case 8:
+                // Perimeter Box
+                int k = 2 * n - 1;
+                for (int i = 1; i <= k; i++) {
+                    for (int j = 1; j <= k; j++) {
+                        System.out.print((Math.max(Math.abs(n - i), Math.abs(n - j)) + 1) + " ");
+                    }
+                    System.out.println();
+                }
         }
     }
 }
